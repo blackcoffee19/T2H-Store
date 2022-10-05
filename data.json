@@ -1,0 +1,46 @@
+{
+    "phones": [
+        {
+        "brand":"Samsung",
+        "title": "Samsung Galaxy Z Flip4",
+        "storage": [
+            {"0": ["128 GB",20990000]},
+            {"1":["256 GB",22990000]},
+            {"2": ["512 GB",24990000]}
+        ],
+        "colors": ["Bora Purple","Graphite","Pink Gold","Blue"],
+        "main_screen": "6.7\" ",
+        "main_tech": "FHD+ Dynamic AMOLED 2X",
+        "cover_screen": "1.9\" Super AMOLED Display",
+        "cover_tech": "Super AMOLED Display",
+        "front_camera": "10MP Selfie Camera",
+        "rear_camera": ["12MP Ultra Wide Camera","12MP Wide-angle Camera"],
+        "OS": "Android 12",
+        "GPU": "Adreno 730",
+        "chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)", 
+        "Battery":"3700mAh"
+        },
+        {
+            "brand":"",
+            "title":"",
+            "storage": [
+                {"0": ["128 GB"]},
+                {"1":["256 GB"]},
+                {"2": ["512 GB"]}
+            ],
+            "colors": [],
+            "main_screen": "",
+            "main_tech": "",
+            "cover_screen": "",
+            "cover_tech": "",
+            "front_camera": "",
+            "rear_camera": "",
+            "OS": "",
+            "GPU": "",
+            "chipset": "",
+            "CPU": "", 
+            "Battery":""
+        }
+    ]
+}
