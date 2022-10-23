@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link
+    rel="stylesheet"
+
+    href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css"
+  >
+
+  <link
+    rel="stylesheet"
+
+    href="https://site-assets.fontawesome.com/releases/v6.2.0/css/sharp-solid.css"
+  >
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-7 col-lg-8">
+                <div id="hinhanh">
+                    <img src="image/637985700630020572_ip-14-pro-max-vang.png" width="350px">     
+                </div> 
+            <div>
+              <img src="image/avatar1664353701880-16643537022561440596125.png" width="170px" class="hinhnho">
+              <img src="image/iphone_14_pro_max_1.png" width="150px" class="hinhnho">
+              <img src="image/iPhone_14_Pro_Max-Pur1.png" width="170px" class="hinhnho">
+              <img src="image/iphone-14-pro.png" width="170px" class="hinhnho">
+              
+            </div>
+                <div>
+                    <button id="des">Description</button>
+                    <button id="det">Detail</button>
+                </div>
+                <div id="des-content"><p>údhuihfhoipJP</p></div>
+                <div id="det-content" style="display:none ;"><table>
+                    <tr id="d-size">
+                        <td>display size </td>
+                        
+
+                        
+                    </tr>
+                    <tr id="d-type">
+                        <td>display type</td>
+                        
+                    </tr>
+                    <tr id="s-camera">
+                        <td>selfie camera</td>
+                        
+                    </tr>
+                    <tr id="m-camera">
+                        <td>main camera</td>
+                        
+                    </tr>
+                    <tr id="os">
+                        <td>os</td>
+                       
+                    </tr>
+                    <tr id="CPU">
+                        <td>CPU</td>
+                        
+                    </tr>
+                    <tr id="GPU">
+                        <td>GPU</td>
+                        
+                    </tr>
+                    <tr id="chipset">
+                        <td>Chipset</td>
+                        
+                    </tr>
+                    <tr id="battery">
+                        <td>battery</td>
+                        
+                    </tr>
+                </table>
+            </div>
+            </div>
+            <div class="col-md-5 col-lg-4">
+                <p>IPhone 12 mini</p>
+                <hr>
+                <del>22000000VND</del>
+                <p>17900000VND</p>
+                <div>
+                    <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="btn-check-outlined">512G</label>
+                    <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="btn-check-outlined">256G</label>
+                    <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="btn-check-outlined">128G</label>
+                </div>
+                <p>Color</p>
+                <div>
+                    <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="btn-check-outlined">Black</label>
+                    <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="btn-check-outlined">Green</label>
+                        <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="btn-check-outlined">Blue</label>
+                </div>
+                <div class="border rounded-3">
+                    <p>Extra Offers</p>
+                    <hr>
+                    <ul>
+                        <li>
+                       text1
+                        </li>
+                        <li>
+                            text3
+                        </li>
+                    </ul>
+                </div>
+                <div  class="d-flex flex-row w-100 align-items-center justify-content-center" >
+                    <p class="flex-fill text-center pt-3">Quantity</p>
+                    <div class="d-flex flex-row flex-fill border">
+                        <i class="fa-solid fa-plus flex-fill"></i>
+                        <p class="flex-fill">0</p>
+                        <i class="fa-solid fa-minus flex-fill"></i>
+                    </div>
+                </div>
+                <div class="row">
+                    <button class="btn btn-outline-danger rounded-3 mx-auto col-3 h-50">Add to Cart</button>
+                    <button class="btn btn-danger rounded-3 mx-auto col-3 h-50">Buy Now</button>
+                </div>
+            </div>
+           
+        </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script>
+        var data=    {
+    brand:"Samsung",
+    title: "Samsung Galaxy Z Flip4",
+    storage: [
+        {0: ["128 GB",20990000]},
+        {1:["256 GB",22990000]},
+        {2: ["512 GB",24990000]}
+    ],
+    colors: ["Deep Purple","Black","Gold","Silver"],
+    display_size:  "6.7\" ",
+    diplay_type: "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)",
+    front_camera: "12MP, f/1.9, 23mm(wide)",
+    rear_camera: ["48 MP, f/1.8, 24mm (wide)","12 MP, f/2.8, 77mm(telephoto)","12 MP, f/2.2, 13mm, 120˚ (ultrawide)"],
+    OS: "iOS 16, upgradable to iOS 16.0.3",
+    GPU: "Apple GPU (5-core graphics)",
+    chipset: "Apple A16 Bionic (4 nm)",
+    CPU: "Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth)", 
+    battery:"4323mAh",
+    rating: 4,
+    }
+        $(function(){
+            $('#det').on('click', function(){
+                $("#d-size").append(`<td>${data.display_size} </td>`);
+                $("#d-type").append(`<td>${data.display_type} </td>`);
+                $("#s-camera").append(`<td>${data.selfie_camera} </td>`);
+                $("#m-camera").append(`<td>${data.rear_camera} </td>`);
+                $("#os").append(`<td>${data.OS} </td>`);
+                $("#CPU").append(`<td>${data.CPU} </td>`);
+                $("#GPU").append(`<td>${data.GPU} </td>`);
+                $("#chipset").append(`<td>${data.chipset} </td>`);
+                $("#battery").append(`<td>${data.battery} </td>`);
+
+                $('#des-content').hide();
+                $('#det-content').show();
+            });
+            $('#des').on('click', function(){
+                $('#det-content').hide();
+                $('#des-content').show();
+            });
+            $('.hinhnho').click(function(event){
+                var anhnho=$(this).attr('src');
+                var hinh=$('#hinhanh').children().attr('src');
+                $(this).attr('src',hinh);
+                $('#hinhanh').children().attr('src',anhnho);
+
+            })
+        })
+    </script>
+</body>
+</html>
