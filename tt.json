@@ -127,7 +127,7 @@
     "brand":"Apple",
      "title": "Iphone 13 pro",
     "storage": [
- {"0": ["128 GB",23990000]},
+{"0": ["128 GB",23990000]},
 {"1":["256 GB",26990000]},
 {"2": ["1 TB",37990000]}
 ],
@@ -867,6 +867,270 @@
 "soled": 12,
 "sales":0.5,
 "image": ["image/hp2l1.png","image/hp2l2.png","image/hp2l3.png","image/hp2l4.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "Redmi 9",
+    "storage": [
+ 
+ {"0":["32 GB",3990000]},
+ {"1":["64 GB",5890000]}
+ ],
+"colors": [" Cacbon Gray","Sunset Purple","Pink/Blue"," Ocean Green"],
+"display_size":  "6.5\" ",
+ "diplay_type": "IPS LCD, 400 nits (typ)",
+ "front_camera":["8 MP, f/2.0, 27mm (wide), 1/4.0, 1.12µm"],
+"rear_camera": ["13 MP, f/1.8, 27mm (wide), 8 MP B/W, f/1.6, 27mm (wide), 1/2.7","5 MP, f/2.4, (macro)","2 MP, f/2.4, (depth)"],
+ "OS": "Android 10, MIUI 11",
+ "GPU": "Mali-G52 MC2" ,
+"chipset": "Mediatek MT6769V/CU Helio G80 (12 nm)",
+"CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)", 
+"battery":"5000mAh",
+"rating": 3,
+"inventory": 18,
+"soled": 12,
+"sales":0.5,
+"image": ["image/rm9.png","image/rm92.png","image/rm93.png","image/rm94.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "Redmi 9T",
+    "storage": [
+ 
+ {"0":["32 GB",4990000]},
+ {"1":["64 GB",7890000]}
+ ],
+"colors": [" Cacbon Gray","Sunries Orange","Twilight Blue"," Ocean Green"],
+"display_size":  "6.5\" ",
+ "diplay_type": "IPS LCD, 400 nits (typ)",
+ "front_camera":["8 MP, f/2.1, 27mm (wide), 1/4.0, 1.12µm"],
+"rear_camera": ["13 MP, f/1.8, 27mm (wide), 8 MP B/W, f/1.6, 27mm (wide), 1/2.7","2 MP, f/2.4, (macro)","2 MP, f/2.4, (depth)"],
+ "OS": "Android 10, MIUI 12",
+ "GPU": "Adreno 610" ,
+"chipset": "Qualcomm SM6115 Snapdragon 662 (11 nm)",
+"CPU": "Octa-core (4x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)", 
+"battery":"6000mAh",
+"rating": 1,
+"inventory": 11,
+"soled": 23,
+"sales":0.2,
+"image": ["image/rm9t1.png","image/rm9t2.png","image/rm9t3.png","image/rm9t4.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "Redmi 9A",
+    "storage": [
+ 
+ {"0":["32 GB",2690000]},
+ {"1":["64 GB",5320000]}
+ ],
+"colors": [" Cacbon Gray","Sky Blue"," Ocean Green"],
+"display_size":  "6.5\" ",
+ "diplay_type": "IPS LCD, 400 nits (typ)",
+ "front_camera":["5 MP, f/2.2, (wide), 1.12µm"],
+"rear_camera": ["13 MP, f/2.2, 28mm (wide), 1.0µm, PDAF"],
+ "OS": "Android 10, MIUI 12",
+ "GPU": "PowerVR GE8320" ,
+"chipset": "MediaTek MT6762G Helio G25 (12 nm)",
+"CPU": "Octa-core (4x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)", 
+"battery":"5000mAh",
+"rating": 1,
+"inventory": 11,
+"soled": 23,
+"sales":0.2,
+"image": ["image/rm9a1.png","image/rm9a2.png","image/rm9a3.png","image/rm9a4.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "Redmi 9C",
+    "storage": [
+ 
+ {"0":["32 GB",4990000]},
+ {"1":["64 GB",6750000]}
+ ],
+"colors": [" Midnight Gray","Sunries Orange","Twilight Blue"],
+"display_size":  "6.5\" ",
+ "diplay_type": "IPS LCD, 400 nits (typ)",
+ "front_camera":["5 MP, f/2.1, 27mm (wide), 1/4.0, 1.12µm"],
+"rear_camera": ["13 MP, f/1.8, 27mm (wide),2 MP, f/2.4, (macro)","2 MP, f/2.4, (depth)"],
+ "OS": "Android 10, MIUI 12",
+ "GPU": "PowerVR GE8320" ,
+"chipset": "MediaTek MT6765G Helio G35 (12 nm)",
+"CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)", 
+"battery":"5000mAh",
+"rating": 1,
+"inventory": 11,
+"soled": 23,
+"sales":0.2,
+"image": ["image/rm9c1.png","image/rm9c2.png","image/rm9c3.png","image/rm9c4.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "Redmi 10",
+    "storage": [
+ 
+ {"0":["32 GB",8000000]},
+ {"1":["64 GB",10500000]}
+ ],
+"colors": [" Cacbon Gray","Pebble White","Ocean Blue"],
+"display_size":  "6.5\" ",
+ "diplay_type": "LCD,90Hz",
+ "front_camera":["8 MP, f/2.1, 27mm (wide), 1/4.0, 1.12µm"],
+"rear_camera": ["50 MP, f/1.8, 27mm (wide),8 MP, f/2.4, (macro)","2 MP, f/2.4, (depth)","2 MP, f/2.4 (depth)"],
+ "OS": "Android 11, MIUI 12.5",
+ "GPU": "Mali-G52 MC2" ,
+"chipset": "MediaTek Helio G88 (12nm)",
+"CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)", 
+"battery":"5000mAh",
+"rating": 3,
+"inventory": 19,
+"soled": 12,
+"sales":0.2,
+"image": ["image/rm101.png","image/rm102.png","image/rm103.png","image/rm104.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "Redmi 10A",
+    "storage": [
+ 
+ {"0":["32 GB",6000000]},
+ {"1":["64 GB",8200000]}
+ ],
+"colors": ["Slate grey","Charcoal Black","Sea Blue"],
+"display_size":  "6.5\" ",
+ "diplay_type": "IPS LCD, 400 nits (typ)",
+ "front_camera":["5 MP"],
+"rear_camera": ["13 MP, f/2.2, (wide), 1.0µm, AF"],
+ "OS": "Android 11, MIUI 12.5",
+ "GPU": "PowerVR GE8320" ,
+"chipset": "MediaTek MT6762G Helio G25 (12 nm)",
+"CPU": "Octa-core (4x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)", 
+"battery":"5000mAh",
+"rating": 3,
+"inventory": 19,
+"soled": 12,
+"sales":0.2,
+"image": ["image/rm10a1.png","image/rm10a2.png","image/rm10a3.png","image/rm10a4.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "Redmi 10c",
+    "storage": [
+ 
+ {"0":["32 GB",7000000]},
+ {"1":["64 GB",9000000]}
+ ],
+"colors": ["Graphite Gray","Mint Green","Ocean Blue"],
+"display_size":  "6.7\" ",
+ "diplay_type": "IPS LCD",
+ "front_camera":["5 MP"],
+"rear_camera": ["13 MP, f/2.2, (wide), 1.0µm, AF"],
+ "OS": "Android 11, MIUI 13",
+ "GPU": "Adreno 610" ,
+"chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+"CPU": "Octa-core (4x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)", 
+"battery":"5000mAh",
+"rating": 5,
+"inventory": 20,
+"soled": 12,
+"sales":0.2,
+"image": ["image/rm10c1.png","image/rm10c2.png","image/rm10c3.png","image/rm10c4.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "Xiaomi 12",
+    "storage": [
+ 
+ {"0":["128 GB",14000000]},
+ {"1":["256 GB",17000000]}
+ ],
+"colors": ["Gray","Green","Blue","Purple"],
+"display_size":  "6.3\" ",
+ "diplay_type": "AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1100 nits (peak)",
+ "front_camera":["32 MP, f/2.5, 26mm (wide), 0.7µm"],
+"rear_camera": ["50 MP, f/2.2, (wide), 1.0µm, AF","13 MP, f/2.4, 12mm, 123˚ (ultrawide), 1/3.06, 1.12µm","5 MP, f/2.4, 50mm (telephoto macro), AF"],
+ "OS": "Android 12, MIUI 13",
+ "GPU": "Adreno 730" ,
+"chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+"CPU": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)", 
+"battery":"4500mAh",
+"rating": 5,
+"inventory": 20,
+"soled": 12,
+"sales":0.2,
+"image": ["image/rm121.png","image/rm122.png","image/rm123.png","image/rm124.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "xiaomi 12pro",
+    "storage": [
+ 
+ {"0":["128 GB",15500000]},
+ {"1":["256 GB",18600000]}
+ ],
+"colors": ["Gray","Green","Blue","Purple"],
+"display_size":  "6.73\" ",
+ "diplay_type": "LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 1000 nits (HBM), 1500 nits (peak)",
+ "front_camera":["32 MP, f/2.5, 26mm (wide), 0.7µm"],
+"rear_camera": ["50 MP, f/2.2, (wide), 1.0µm, AF","50 MP, f/2.4, 12mm, 123˚ (ultrawide), 1/3.06, 1.12µm","50 MP, f/2.4, 50mm (telephoto macro), AF"],
+ "OS": "Android 12, MIUI 13",
+ "GPU": "Adreno 730" ,
+"chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+"CPU": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)", 
+"battery":"4600mAh",
+"rating": 5,
+"inventory": 20,
+"soled": 12,
+"sales":0.2,
+"image": ["image/rm12p1.png","image/rm12p2.png","image/rm12p3.png","image/rm12p4.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "xiaomi 12T",
+    "storage": [
+ 
+ {"0":["128 GB",13700000]},
+ {"1":["256 GB",15600000]}
+ ],
+"colors": ["Gray","Green","Blue","Purple"],
+"display_size":  "6.73\" ",
+ "diplay_type": "AMOLED, 68B colors, 120Hz, HDR10+, 500 nits (typ), 900 nits (peak)",
+ "front_camera":["20 MP, f/2.5, 26mm (wide), 0.7µm"],
+"rear_camera": ["108 MP, f/2.2, (wide), 1.0µm, AF","8 MP, f/2.4, 12mm, 123˚ (ultrawide), 1/3.06, 1.12µm","2 MP, f/2.4, 50mm (telephoto macro), AF"],
+ "OS": "Android 12, MIUI 13",
+ "GPU": "Mali-G610 MC6" ,
+"chipset": "MediaTek Dimensity 8100-Ultra",
+"CPU": "Octa-core (4x2.85 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)", 
+"battery":"5000mAh",
+"rating": 5,
+"inventory": 20,
+"soled": 12,
+"sales":0.2,
+"image": ["image/rm12t1.png","image/rm12t2.png","image/rm12t3.png","image/rm12t4.png"]
+},
+{
+    "brand":"Xiaomi",
+     "title": "xiaomi 12T Pro",
+    "storage": [
+ 
+ {"0":["128 GB",14800000]},
+ {"1":["256 GB",16890000]}
+ ],
+"colors": ["Black","Silver","Blue"],
+"display_size":  "6.73\" ",
+ "diplay_type": "AMOLED, 68B colors, 120Hz, HDR10+, 500 nits (typ), 900 nits (peak)",
+ "front_camera":["20 MP, f/2.5, 26mm (wide), 0.7µm"],
+"rear_camera": ["200 MP, f/2.2, (wide), 1.0µm, AF","8 MP, f/2.4, 12mm, 123˚ (ultrawide), 1/3.06, 1.12µm","2 MP, f/2.4, 50mm (telephoto macro), AF"],
+ "OS": "Android 12, MIUI 13",
+ "GPU": "Adreno 730" ,
+"chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+"CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x2.0 GHz Cortex-A510)", 
+"battery":"5000mAh",
+"rating": 4,
+"inventory": 18,
+"soled": 12,
+"sales":0.2,
+"image": ["image/rm12tp1.png","image/rm12tp2.png","image/rm12tp3.png","image/rm12tp4.png"]
 }
 
 
